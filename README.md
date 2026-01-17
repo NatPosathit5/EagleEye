@@ -25,7 +25,7 @@ $$$$$$$$\\$$$$$$$ |\$$$$$$$ |$$ |\$$$$$$$\       $$$$$$$$\\$$$$$$$ |\$$$$$$$\
 
 <p align="center"> You have at least one image of the person you are looking for and a clue about their name. 
 <br>
-You enter this data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person.
+You enter this data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person..
     <br> 
 </p>
 
@@ -188,3 +188,4 @@ $ python3 eagle-eye.py -h
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - The movie Eagle Eye
+
