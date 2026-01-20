@@ -29,7 +29,7 @@ You enter this data into EagleEye and it tries to find Instagram, Youtube, Faceb
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Table of Contents.1
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -188,4 +188,5 @@ $ python3 eagle-eye.py -h
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - The movie Eagle Eye
+
 
